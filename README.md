@@ -9,7 +9,7 @@ The jpg files have white borders around them and are sized for a webpage or othe
 
 The png files have transparent backgrounds, are much larger, and can be easily reduced to desired size. They should be suitable for most needs. 
 
-Click on the image below for a quick links to the png files:
+Click on the image below for a quick links to the corresponding png file:
 
 <img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-pic-color.png" width="300px">
 <img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-pic-bw.png" width="300px">
