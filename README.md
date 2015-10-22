@@ -2,10 +2,8 @@
 
 ## Logo
 
-![](/LandlabLogos)
-<img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/LandabLogos.jpg">
-
 The Landlab logo comes in two versions: one has the word and grid (word) and the other has the picture with the word and grid (pic). Each logo comes in either color or black and white (bw). 
+<img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/LandabLogos.jpg" width="500px">
 
 The jpg files have white borders around them and are sized for a webpage or other electronic publication. 
 
