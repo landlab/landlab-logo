@@ -10,12 +10,11 @@ The png files have transparent backgrounds, are much larger, and can be easily r
 
 Click on an image below for a quick link to the corresponding png file:
 
-<img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-pic-color.png" width="300px">
-<img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-pic-bw.png" width="300px">
-
 <img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-word-color.png" width="300px">
 <img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-word-bw.png" width="300px">
 
+<img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-pic-color.png" width="300px">
+<img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-pic-bw.png" width="300px">
 
 I tried pdf, eps, and svg versions in vector format, but they did not look as nice as the png. If you need a larger version or different format from what is available here, send an issue or a pull request. 
 
