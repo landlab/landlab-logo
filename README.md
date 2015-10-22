@@ -2,7 +2,7 @@
 
 ## Logo
 
-![]()
+![](LandlabLogos.pdf)
 
 The Landlab logo comes in two versions: one has the word and grid (word) and the other has the picture with the word and grid (pic). Each logo comes in either color or black and white (bw). 
 
@@ -16,4 +16,4 @@ I tried pdf, eps, and svg versions in vector format, but they did not look as ni
 
 Here is the Landlab color pallet to use in illustration and branding:
 
-![]()
+<img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-Pallet.png">
