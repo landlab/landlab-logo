@@ -12,11 +12,9 @@ The png files have transparent backgrounds, are much larger, and can be easily r
 Quick links to the png files:
 
 <img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-pic-color.png" width="300px">
-
 <img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-pic-bw.png" width="300px">
 
 <img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-word-color.png" width="300px">
-
 <img src="https://raw.githubusercontent.com/landlab/landlab-logo/master/Landlab-logo-word-bw.png" width="300px">
 
 
