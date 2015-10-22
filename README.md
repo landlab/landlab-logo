@@ -9,6 +9,12 @@ The jpg files have white borders around them and are sized for a webpage or othe
 
 The png files have transparent backgrounds, are much larger, and can be easily reduced to desired size. They should be suitable for most needs. 
 
+Quick links to the png files:
+[logo with picture, color](https://github.com/landlab/landlab-logo/blob/master/Landlab-logo-pic-color.png)
+[logo with picture, black and white](https://github.com/landlab/landlab-logo/blob/master/Landlab-logo-pic-bw.png)
+[logo word, color](https://github.com/landlab/landlab-logo/blob/master/Landlab-logo-word-color.png)
+[logo word, black and white](https://github.com/landlab/landlab-logo/blob/master/Landlab-logo-word-bw.png)
+
 I tried pdf, eps, and svg versions in vector format, but they did not look as nice as the png. If you need a larger version or different format from what is available here, send an issue or a pull request. 
 
 ## Color pallet
