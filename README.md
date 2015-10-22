@@ -2,7 +2,7 @@
 
 ## Logo
 
-![](LandlabLogos.pdf)
+![](./LandlabLogos.pdf)
 
 The Landlab logo comes in two versions: one has the word and grid (word) and the other has the picture with the word and grid (pic). Each logo comes in either color or black and white (bw). 
 
